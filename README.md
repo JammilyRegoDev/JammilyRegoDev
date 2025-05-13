@@ -3,7 +3,11 @@
 
 Olá! Me chamo Jammily Rego, uma apaixonada por tecnologia com foco em desenvolvimento web, explorando tanto Front-end quanto Back-end. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas na EEEP Maria Célia Pinheiro Falcão, onde transformo linhas de código em soluções criativas e funcionais. A tecnologia não é só sobre bits e bytes – é sobre criar pontes entre ideias e realidade
 
-
+<a href = "jammilysampaio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
+ <a href="https://instagram.com/jayz_1q" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ #
+ 
 <h1>👾 Tecnologias</h1>
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
 <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
